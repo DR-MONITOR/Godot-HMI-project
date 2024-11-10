@@ -1,0 +1,11 @@
+[gd_resource type="Theme" load_steps=4 format=3 uid="uid://dt18ffjvpg4lf"]
+
+[ext_resource type="FontFile" uid="uid://ccs5lmoslh4ul" path="res://resources/fonts/impact.ttf" id="1_0hii3"]
+[ext_resource type="Texture2D" uid="uid://dmms1187y5x3x" path="res://assets/checkbutton/checked.png" id="1_xur5s"]
+[ext_resource type="Texture2D" uid="uid://i343ks7bj2eg" path="res://assets/checkbutton/unchecked.png" id="2_dvvid"]
+
+[resource]
+CheckButton/font_sizes/font_size = 26
+CheckButton/fonts/font = ExtResource("1_0hii3")
+CheckButton/icons/checked = ExtResource("1_xur5s")
+CheckButton/icons/unchecked = ExtResource("2_dvvid")
